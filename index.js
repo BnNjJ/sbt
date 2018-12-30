@@ -7,7 +7,7 @@ let xp = require("./xp.json");
 
 
 const prefix = '~';
-const ownerID = '482925833535619083';
+const ownerID = '';
 
 fs.readdir("./commands/", (err, files) => {
 
